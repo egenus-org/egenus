@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">egenus</h2>
+  <h3 align="center">egenus</h3>
 </div>
 
 ## About egenus
